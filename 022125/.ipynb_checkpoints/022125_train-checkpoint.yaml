@@ -1,0 +1,13 @@
+train: [
+  /home/jlamm/YOLO022125/VISEM_Tracking_Train_v4/Train/11,
+]
+
+val: [
+  /home/jlamm/YOLO022125/VISEM_Tracking_Train_v4/Train/52,
+]
+
+# number of classes
+nc: 3
+
+# class names
+names: [ "sperm", "cluster", "small_or_pinhead"]

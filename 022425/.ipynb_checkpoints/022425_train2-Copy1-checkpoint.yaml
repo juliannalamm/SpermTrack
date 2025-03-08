@@ -1,0 +1,32 @@
+train: [
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/11,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/12,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/13,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/14,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/15,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/19,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/21,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/22,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/23,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/24,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/29,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/30,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/35,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/36,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/38,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/47,  
+  
+]
+
+val: [
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/52,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/54,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/60,
+  /home/jlamm/YOLO/VISEM_Tracking_Train_v4/Train/82,
+]
+
+# number of classes
+nc: 3
+
+# class names
+names: [ "sperm", "cluster", "small_or_pinhead"]
